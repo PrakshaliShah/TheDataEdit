@@ -56,12 +56,16 @@ From Excel models to dynamic dashboards and SQL logic to Python automation, each
 
 ---
 
+### 📽️ Presentation Projects (PowerPoint)
+
+1. *Slide decks for business storytelling, dashboard walkthroughs, and strategy reports coming soon...*
+
+---
+
 ## 🧑‍💻 About Me
 
 **Prakshali Shah**  
-🎓 M.S. in Business Analytics | Roosevelt University  
-📍 Chicago, IL | 💼 Seeking Summer 2025 internships  
-🧠 4+ years solving real-world business problems using data  
+🎓 M.S. in Business Analytics @ Roosevelt University  
+📍 Chicago, IL | 🌍 Open to data-driven internships  
 🛠️ Tools of choice: SQL, Power BI, Python, Excel  
 🔗 [Connect on LinkedIn](https://linkedin.com/in/prakshalishah)
-
