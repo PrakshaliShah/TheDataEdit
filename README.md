@@ -62,7 +62,7 @@ From Excel models to dynamic dashboards and SQL logic to Python automation, each
 
 ---
 
-## 🧑‍💻 About Me
+## 👩‍💻 About Me
 
 **Prakshali Shah**  
 🎓 M.S. in Business Analytics @ Roosevelt University  
