@@ -9,7 +9,7 @@ From Excel models to dynamic dashboards and SQL logic to Python automation, each
 
 ---
 
-### 📈 Excel Models
+### 📈 Excel Projects
 
 1. **💰 [Cents & Sense: Price Distribution Across U.S. Cities](https://github.com/prakshalishah/cents-and-sense-dashboard)**  
    An Excel dashboard visualizing how U.S. cities allocate consumer spend across denominations from Penny to Half Dollar.  
