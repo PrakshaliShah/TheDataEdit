@@ -16,7 +16,7 @@ From Excel models to dynamic dashboards and SQL logic to Python automation, each
    - Indexed scoring to compare spend across cities  
    - Color-coded heatmap using conditional formatting  
    - Clean and minimal layout for easy interpretation  
-   🔗 [View Excel File](https://github.com/yourusername/cents-and-sense-dashboard/blob/main/CentsAndSense_Dashboard.xlsx)
+   🔗 [View Excel File](https://github.com/prakshalishah/cents-and-sense-dashboard/blob/main/CentsAndSense_Dashboard.xlsx)
 
 2. *More Excel-based models coming soon...*
 
