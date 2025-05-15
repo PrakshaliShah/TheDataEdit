@@ -7,7 +7,7 @@ Each folder contains a focused case study with code, dashboards, insights, and o
 
 ## 📁 Project Categories
 
-### 📊 Power BI Projects
+### 📊 Dashboard Projects
 
 1. **[FAANG Impact Dashboard](https://github.com/yourusername/faang-impact-dashboard)**  
    Analyzed Meta’s workforce and financial data to identify trends across the FAANG ecosystem.  
