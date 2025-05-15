@@ -59,7 +59,9 @@ From Excel models to dynamic dashboards and SQL logic to Python automation, each
 ## 🧑‍💻 About Me
 
 **Prakshali Shah**  
-🎓 M.S. in Business Analytics @ Roosevelt University  
-📍 Chicago, IL | 🌍 Open to impact-driven internships  
-💬 Passionate about transforming data into stories that spark decisions  
+🎓 M.S. in Business Analytics | Roosevelt University  
+📍 Chicago, IL | 💼 Seeking Summer 2025 internships  
+🧠 4+ years solving real-world business problems using data  
+🛠️ Tools of choice: SQL, Power BI, Python, Excel  
 🔗 [Connect on LinkedIn](https://linkedin.com/in/prakshalishah)
+
