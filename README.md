@@ -7,27 +7,43 @@ Each folder contains a focused case study with code, dashboards, insights, and o
 
 ## 📁 Project Categories
 
+---
+
 ### 📊 Dashboard Projects
 
+#### 🔷 Power BI Dashboards
 1. **[FAANG Impact Dashboard](https://github.com/yourusername/faang-impact-dashboard)**  
    Analyzed Meta’s workforce and financial data to identify trends across the FAANG ecosystem.  
-   🔗 [View Dashboard](#)  
+   🔗 [View Dashboard](#)
 
 2. **[KPI Reporting System](https://github.com/yourusername/kpi-reporting-system)**  
-   Automated marketing KPI tracking using Excel + Power BI to reduce turnaround time by 40%.  
+   Automated marketing KPI tracking using Power BI & Excel to reduce turnaround time by 40%.  
    🔗 [View Report](#)
+
+#### 🔶 Excel Dashboards
+- Coming soon...
+
+#### 🔷 Tableau Dashboards
+- Coming soon...
 
 ---
 
 ### 🐍 Python Projects
 
-Coming soon...
+- Coming soon...
 
 ---
 
 ### 🧠 SQL Projects
 
-Coming soon...
+#### 🟢 Basic SQL
+- Coming soon...
+
+#### 🔵 Intermediate SQL
+- Coming soon...
+
+#### 🔴 Advanced SQL
+- Coming soon...
 
 ---
 
