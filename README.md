@@ -19,7 +19,7 @@ From Excel models to dynamic dashboards and SQL logic to Python automation, each
 
 ---
 
-### 🛢️ SQL Projects
+### 🧠 SQL Projects
 
 #### 🟢 Basic SQL
 - *Coming soon...*
