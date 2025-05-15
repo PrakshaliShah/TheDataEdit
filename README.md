@@ -11,7 +11,7 @@ From Excel models to dynamic dashboards and SQL logic to Python automation, each
 
 ### 📈 Excel Models
 
-1. **💰 [Cents & Sense: Price Distribution Across U.S. Cities](https://github.com/yourusername/cents-and-sense-dashboard)**  
+1. **💰 [Cents & Sense: Price Distribution Across U.S. Cities](https://github.com/prakshalishah/cents-and-sense-dashboard)**  
    An Excel-based dashboard visualizing how different U.S. cities distribute consumer spend across denominations like Penny, Nickel, Dime, Quarter, and Half Dollar.  
    - Indexed scoring to compare spend across cities  
    - Color-coded heatmap using conditional formatting  
