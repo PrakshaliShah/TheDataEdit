@@ -11,9 +11,12 @@ From Excel models to dynamic dashboards and SQL logic to Python automation, each
 
 ### 📈 Excel Models
 
-1. **[KPI Reporting System](https://github.com/yourusername/kpi-reporting-system)**  
-   Automated marketing KPI tracking using Excel & Power BI to reduce turnaround time by 40%.  
-   🔗 [View Report](#)
+1. **💰 [Cents & Sense: Price Distribution Across U.S. Cities](https://github.com/yourusername/cents-and-sense-dashboard)**  
+   An Excel-based dashboard visualizing how different U.S. cities distribute consumer spend across denominations like Penny, Nickel, Dime, Quarter, and Half Dollar.  
+   - Indexed scoring to compare spend across cities  
+   - Color-coded heatmap using conditional formatting  
+   - Clean and minimal layout for easy interpretation  
+   🔗 [View Excel File](https://github.com/yourusername/cents-and-sense-dashboard/blob/main/CentsAndSense_Dashboard.xlsx)
 
 2. *More Excel-based models coming soon...*
 
