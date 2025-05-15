@@ -56,4 +56,10 @@ From Excel models to dynamic dashboards and SQL logic to Python automation, each
 
 ---
 
-> 🔍 *Want to collaborate or learn more about any project? Let’s connect on [LinkedIn](https://linkedin.com/in/prakshalishah)!*
+## 🧑‍💻 About Me
+
+**Prakshali Shah**  
+🎓 M.S. in Business Analytics @ Roosevelt University  
+📍 Chicago, IL | 🌍 Open to impact-driven internships  
+💬 Passionate about transforming data into stories that spark decisions  
+🔗 [Connect on LinkedIn](https://linkedin.com/in/prakshalishah)
