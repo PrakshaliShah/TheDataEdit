@@ -19,7 +19,7 @@ From Excel models to dynamic dashboards and SQL logic to Python automation, each
 
 ---
 
-### 🧩 SQL Projects
+### 🚀 SQL Projects
 
 #### 🟢 Basic SQL
 - *Coming soon...*
@@ -41,6 +41,12 @@ From Excel models to dynamic dashboards and SQL logic to Python automation, each
 2. **[KPI Reporting System](https://github.com/yourusername/kpi-reporting-system)**  
    Integrated with Excel for end-to-end performance reporting.  
    🔗 [View Report](#)
+
+---
+
+### 🔬 R Projects
+
+- *Coming soon...*
 
 ---
 
