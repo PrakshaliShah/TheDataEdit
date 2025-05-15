@@ -1,4 +1,4 @@
-# 🧠 Curated by Prakshali
+# 📊 The Data Edit by Prakshali
 
 Welcome to my analytics portfolio — a collection of hands-on business and data analytics projects built using **Power BI**, **Python**, **SQL**, and **Excel**.  
 Each folder contains a focused case study with code, dashboards, insights, and outcomes.
