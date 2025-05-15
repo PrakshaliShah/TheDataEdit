@@ -18,6 +18,10 @@ From Excel models to dynamic dashboards and SQL logic to Python automation, each
 2. **📊 [StreamView: Subscription Overlap & Churn Analysis](https://github.com/prakshalishah/streamview-subscription-overlap)**  
    Excel model analyzing subscription overlap and multi-platform behavior across Hulu, Disney+, Netflix, and Amazon Prime.  
    🔗 [View File](https://github.com/prakshalishah/streamview-subscription-overlap/blob/main/StreamView_SubscriptionOverlap_Model.xlsx)
+   
+3. **📈 [Meta Quarterly Performance Dashboard](https://github.com/prakshalishah/meta-quarterly-performance-dashboard)**  
+   Excel dashboard tracking Meta’s advertising and regional revenue performance across 2022–2023 using interactive slicers.  
+   🔗 [View File](https://github.com/prakshalishah/meta-quarterly-performance-dashboard/blob/main/Meta_Quarterly_Performance_Dashboard.xlsx)
 
 ---
 
