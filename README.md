@@ -9,7 +9,7 @@ From Excel models to dynamic dashboards and SQL logic to Python automation, each
 
 ---
 
-### 📈 Excel Projects
+### 📈 Excel
 
 1. **💰 [Cents & Sense: Price Distribution Across U.S. Cities](https://github.com/prakshalishah/cents-and-sense-dashboard)**  
    An Excel dashboard visualizing how U.S. cities allocate consumer spend across denominations from Penny to Half Dollar.  
@@ -29,7 +29,7 @@ From Excel models to dynamic dashboards and SQL logic to Python automation, each
 
 ---
 
-### 🚀 SQL Projects
+### 🚀 SQL
 
 #### 🟢 Basic SQL
 - *Coming soon...*
@@ -42,7 +42,7 @@ From Excel models to dynamic dashboards and SQL logic to Python automation, each
 
 ---
 
-### 📊 Power BI Projects
+### 📊 Power BI
 
 1. **[FAANG Impact Dashboard](https://github.com/yourusername/faang-impact-dashboard)**  
    Analyzed Meta’s workforce and financial data to identify trends across the FAANG ecosystem.  
@@ -54,7 +54,7 @@ From Excel models to dynamic dashboards and SQL logic to Python automation, each
 
 ---
 
-### 🌩️ Cloud Projects
+### 🌩️ Cloud
 
 1. **☁️ [AWS EMR Cluster Setup](https://github.com/prakshalishah/aws-emr-cluster-setup)**  
    Configured an Amazon EMR cluster using EC2 instances and installed Hadoop, Spark, Hive, and HBase.  
@@ -63,25 +63,25 @@ From Excel models to dynamic dashboards and SQL logic to Python automation, each
 
 ---
 
-### 🔬 R Projects
+### 🔬 R Programming
 
 - *Coming soon...*
 
 ---
 
-### 🐍 Python Projects
+### 🐍 Python
 
 - *Coming soon...*
 
 ---
 
-### 🎨 Tableau Projects
+### 🎨 Tableau
 
 - *Coming soon...*
 
 ---
 
-### 📽️ Presentation Projects (PowerPoint)
+### 📽️ Presentation (PowerPoint)
 
 1. *Slide decks for business storytelling, dashboard walkthroughs, and strategy reports coming soon...*
 
