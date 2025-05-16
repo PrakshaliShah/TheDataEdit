@@ -54,6 +54,15 @@ From Excel models to dynamic dashboards and SQL logic to Python automation, each
 
 ---
 
+### 🌩️ Cloud Projects
+
+1. **☁️ [AWS EMR Cluster Setup](https://github.com/prakshalishah/aws-emr-cluster-setup)**  
+   Configured an Amazon EMR cluster using EC2 instances and installed Hadoop, Spark, Hive, and HBase.  
+   Managed key pairs, IAM roles, and security group rules to establish SSH access via PuTTY.  
+   🔗 [View PDF Report](https://github.com/prakshalishah/aws-emr-cluster-setup/blob/main/aws-emr-cluster-setup.pdf)
+
+---
+
 ### 🔬 R Projects
 
 - *Coming soon...*
