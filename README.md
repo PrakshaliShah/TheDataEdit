@@ -44,13 +44,7 @@ From Excel models to dynamic dashboards and SQL logic to Python automation, each
 
 ### 📊 Power BI
 
-1. **[FAANG Impact Dashboard](https://github.com/yourusername/faang-impact-dashboard)**  
-   Analyzed Meta’s workforce and financial data to identify trends across the FAANG ecosystem.  
-   🔗 [View Dashboard](#)
-
-2. **[KPI Reporting System](https://github.com/yourusername/kpi-reporting-system)**  
-   Integrated with Excel for end-to-end performance reporting.  
-   🔗 [View Report](#)
+- *Coming soon...*
 
 ---
 
