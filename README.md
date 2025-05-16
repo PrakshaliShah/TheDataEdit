@@ -77,7 +77,7 @@ From Excel models to dynamic dashboards and SQL logic to Python automation, each
 
 ### 📽️ Presentation (PowerPoint)
 
-1. *Slide decks for business storytelling, dashboard walkthroughs, and strategy reports coming soon...*
+- *Coming soon...*
 
 ---
 
