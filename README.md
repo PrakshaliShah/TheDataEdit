@@ -55,7 +55,7 @@ From Excel models to dynamic dashboards and SQL logic to Python automation, each
 2. **🧮 [Hadoop MapReduce – Max Stock Price](https://github.com/prakshalishah/hadoop-mapreduce-stock-price-analysis)**  
    Used AWS EMR and custom Python scripts to run a MapReduce job that calculates the **maximum trade price per stock symbol**.  
    The project demonstrates working with HDFS, Hadoop streaming, and cloud-based distributed processing.  
-   🔗 [View Code](https://github.com/prakshalishah/hadoop-mapreduce-stock-price-analysis/blob/main/mapper.py)
+   🔗 [View Project](https://github.com/prakshalishah/hadoop-mapreduce-stock-price-analysis)
 
 ---
 
