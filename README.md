@@ -20,10 +20,6 @@ From Excel models to dynamic dashboards and SQL logic to Python automation, each
    Excel dashboard tracking Meta’s advertising and regional revenue performance across 2022–2023 using interactive slicers.  
    🔗 [View File](https://github.com/prakshalishah/meta-quarterly-performance-dashboard/blob/main/Meta_Quarterly_Performance_Dashboard.xlsx)
 
-3. **🛫 [Chicago O’Hare Airport Dashboard](https://github.com/prakshalishah/chicago-ohare-airport-dashboard)**  
-   An Excel dashboard visualizing air traffic trends, passenger volumes, and destination insights for Chicago O’Hare International Airport (ORD).  
-   🔗 [View File](https://github.com/prakshalishah/chicago-ohare-airport-dashboard/blob/main/chicago-ohare-airport-dashboard.xlsx)
-
 ---
 
 ### 🚀 SQL
