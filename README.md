@@ -24,13 +24,6 @@ From Excel models to dynamic dashboards and SQL logic to Python automation, each
 
 ### 🚀 SQL
 
-#### 🟢 Basic SQL
-- *Coming soon...*
-
-#### 🔵 Intermediate SQL
-- *Coming soon...*
-
-#### 🔴 Advanced SQL
 - *Coming soon...*
 
 ---
@@ -58,6 +51,11 @@ From Excel models to dynamic dashboards and SQL logic to Python automation, each
    Implemented internal, external, and partitioned tables using HDFS. Executed 10+ HiveQL queries with joins, filters, and segmentation logic.  
    🔗 [View Report](https://github.com/prakshalishah/hive-customer-late-payments-analysis/blob/main/hive-late-payments-report.pdf)
 
+4. **🧾 [HBase Shell Command Project – Customer Modeling](https://github.com/prakshalishah/hbase-shell-command-project)**  
+   Built a column-family-based customer profile model using Apache HBase. Created and populated tables via HBase Shell, applied `put` and `scan` operations, and explored data versioning.  
+   📄 [View Report](https://github.com/prakshalishah/hbase-shell-command-project/blob/main/report.pdf)
+
+
 
 ---
 
@@ -74,12 +72,6 @@ From Excel models to dynamic dashboards and SQL logic to Python automation, each
 ---
 
 ### 🎨 Tableau
-
-- *Coming soon...*
-
----
-
-### 📽️ Presentation (PowerPoint)
 
 - *Coming soon...*
 
