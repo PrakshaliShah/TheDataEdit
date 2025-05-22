@@ -52,6 +52,11 @@ From Excel models to dynamic dashboards and SQL logic to Python automation, each
    Managed key pairs, IAM roles, and security group rules to establish SSH access via PuTTY.  
    🔗 [View PDF Report](https://github.com/prakshalishah/aws-emr-cluster-setup/blob/main/aws-emr-cluster-setup.pdf)
 
+2. **🧮 [Hadoop MapReduce – Max Stock Price](https://github.com/prakshalishah/hadoop-mapreduce-stock-price-analysis)**  
+   Used AWS EMR and custom Python scripts to run a MapReduce job that calculates the **maximum trade price per stock symbol**.  
+   The project demonstrates working with HDFS, Hadoop streaming, and cloud-based distributed processing.  
+   🔗 [View Code](https://github.com/prakshalishah/hadoop-mapreduce-stock-price-analysis/blob/main/mapper.py)
+
 ---
 
 ### 🔬 R Programming
