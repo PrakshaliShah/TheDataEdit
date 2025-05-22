@@ -47,8 +47,8 @@ From Excel models to dynamic dashboards and SQL logic to Python automation, each
    🔗 [View Report](https://github.com/prakshalishah/hadoop-mapreduce-stock-price-analysis/blob/main/aws-emr-job-writeup.pdf)
 
 3. **🏦 [Hive Customer Analytics – Late Payments](https://github.com/prakshalishah/hive-customer-late-payments-analysis)**  
-   Built a Hive data warehouse on Hadoop to analyze customer behaviors related to late payments, credit card usage, and digital banking trends.  
-   Implemented internal, external, and partitioned tables using HDFS. Executed 10+ HiveQL queries with joins, filters, and segmentation logic.  
+   Built a Hive data warehouse to analyze customer behavior on late payments, credit usage, and banking trends.  
+   Used internal, external & partitioned tables with HiveQL joins, filters, and segmentation logic.
    🔗 [View Report](https://github.com/prakshalishah/hive-customer-late-payments-analysis/blob/main/hive-late-payments-report.pdf)
 
 4. **🧾 [HBase Shell Command Project – Customer Modeling](https://github.com/prakshalishah/hbase-shell-command-project)**  
