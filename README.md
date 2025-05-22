@@ -1,4 +1,4 @@
-# 💻✨ Curated by Prakshali
+# 💻 Curated by Prakshali
 
 **Welcome to *The Data Edit* — a curated collection of real-world analytics projects where data meets strategy.**  
 From Excel models to dynamic dashboards and SQL logic to Python automation, each project explores how insights are uncovered, not just built.
