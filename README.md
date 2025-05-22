@@ -52,8 +52,8 @@ From Excel models to dynamic dashboards and SQL logic to Python automation, each
    🔗 [View Report](https://github.com/prakshalishah/hive-customer-late-payments-analysis/blob/main/hive-late-payments-report.pdf)
 
 4. **🧾 [HBase Shell Command Project – Customer Modeling](https://github.com/prakshalishah/hbase-shell-command-project)**  
-   Built a column-family-based customer profile model using Apache HBase. Created and populated tables via HBase Shell, applied `put` and `scan` operations, and explored data versioning.  
-   📄 [View Report](https://github.com/prakshalishah/hbase-shell-command-project/blob/main/report.pdf)
+   Built a column-family-based customer profile model using Apache HBase. Created and populated tables via HBase Shell, applied **put** and **scan** operations, and explored data versioning.  
+   🔗 [View Report](https://github.com/prakshalishah/hbase-shell-command-project/blob/main/report.pdf)
 
 
 
