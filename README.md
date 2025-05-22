@@ -46,12 +46,18 @@ From Excel models to dynamic dashboards and SQL logic to Python automation, each
 1. **☁️ [AWS EMR Cluster Setup](https://github.com/prakshalishah/aws-emr-cluster-setup)**  
    Configured an Amazon EMR cluster using EC2 instances and installed Hadoop, Spark, Hive, and HBase.  
    Managed key pairs, IAM roles, and security group rules to establish SSH access via PuTTY.  
-   🔗 [View PDF Report](https://github.com/prakshalishah/aws-emr-cluster-setup/blob/main/aws-emr-cluster-setup.pdf)
+   🔗 [View Report](https://github.com/prakshalishah/aws-emr-cluster-setup/blob/main/aws-emr-cluster-setup.pdf)
 
 2. **🧮 [Hadoop MapReduce – Max Stock Price](https://github.com/prakshalishah/hadoop-mapreduce-stock-price-analysis)**  
    Used AWS EMR and custom Python scripts to run a MapReduce job that calculates the **maximum trade price per stock symbol**.  
    The project demonstrates working with HDFS, Hadoop streaming, and cloud-based distributed processing.  
-   🔗 [View PDF Report](https://github.com/prakshalishah/hadoop-mapreduce-stock-price-analysis/blob/main/aws-emr-job-writeup.pdf)
+   🔗 [View Report](https://github.com/prakshalishah/hadoop-mapreduce-stock-price-analysis/blob/main/aws-emr-job-writeup.pdf)
+
+3. **🏦 [Hive Customer Analytics – Late Payments](https://github.com/prakshalishah/hive-customer-late-payments-analysis)**  
+   Built a Hive data warehouse on Hadoop to analyze customer behaviors related to late payments, credit card usage, and digital banking trends.  
+   Implemented internal, external, and partitioned tables using HDFS. Executed 10+ HiveQL queries with joins, filters, and segmentation logic.  
+   🔗 [View Report](https://github.com/prakshalishah/hive-customer-late-payments-analysis/blob/main/hive-late-payments-report.pdf)
+
 
 ---
 
